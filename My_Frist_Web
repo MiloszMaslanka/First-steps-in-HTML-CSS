@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Milosz_Maslanka_CV_My_Web</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+            <body>
+                        <header>
+                            <img class = "profil-picture circle " src="foto_html_css_cv_my_web.jpg"/> 
+                            <div>
+                                <h1>Miłosz Maślanka</h1> 
+                                <span><b>Computer Science student</b></span>
+                            </div>
+                            <address>
+                                <ul>
+                                    <li><img class="address-icon circle" src="images/email_to_cv.png"/>
+                                        <b>Email:</b><a href="mailto:milosz.maslanka0707@gmail.com"> milosz.maslanka0707@gmail.com</a>
+                                    </li>
+                                    <li><img class="address-icon circle"  src="images/phone_to_cv.png"/>
+                                        <b>Phone:</b><a href="tel:+48 516483973"> +48 516-483-973</a>
+                                    </li>
+                                    <li><img class="address-icon circle"  src="images/Address_to_cv.png"/>
+                                        <b>Address:</b> Poland, Warsaw 
+                                    </li>
+                                    <li><img class="address-icon circle"  src="images/GitHub_to_cv.png"/>
+                                        <a href="https://github.com/MiloszMaslanka"><b>Github</b></a>
+                                    </li>
+                                    <li><img class="address-icon circle"  src="images/Linkdin_to_cv.png"/>
+                                        <a href="https://www.linkedin.com/in/mi%C5%82osz-ma%C5%9Blanka/"> <b>Linkedin</b></a> 
+                                    </li>
+                                </ul>
+                            </address>        
+                            </header>  
+                            <main>    
+                                <section>
+                                    <h2>About Me</h2>
+                                    <p>Highly motivated, achievement-oriented, collaborative and easily adaptable first-year
+                                        Computer Science student. New technologies and skills are an inseparable part of
+                                        myself in terms of my future career and current interests. I am passionate about the
+                                        use of cloud computing to solve business problems. I associate my professional
+                                        future career with the broadly understood IT industry, in particular with cybersecurity
+                                        and artificial intelligence. At the beginning of my path in the field of programming, I
+                                        focused on Java.</p>
+                                </section>  
+                                <section>      
+                                <h2><b>Education</b></h2>
+                                        <ul>
+                                            <li>2021/09 - Present Computer Science, Engineering studies</li>
+                                                <p>
+                                                    <a href="https://pja.edu.pl/">Polish - Japanese Academy of Information Technology</a> part-time
+                                                    studies, Warsaw
+                                                </p>
+                                            <li>2018/09 - 2021/05 - High School</li>
+                                                <p>
+                                                    <a href="https://baczynski.org/">General Secondary School No. 4 Krzysztof Baczyński</a>, Włocławek
+                                                </p>
+                                        </ul>
+                                </section>      
+                                <section>   
+                                    <h2><b>Professional Experience</b></h2>
+                                        <ul>
+                                            <li>2021/10 - 2021/12 - Insurance and Financial Agent</li>
+                                                <p>
+                                                    <a href="https://www.nn.pl/?utm_source=google&utm_medium=CPC&utm_campaign=brand_20200229_SW_RLSA_exact_desktop&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KFv1-Cc9uQ1ITke-9CnD0kzvoeOzHp7K8xXYnIr3gJLpYfJ-RexbPEaAlgoEALw_wcB">Nationale - Nederlanden</a>, Warsaw
+                                                    In order to become an agent in Nationale-Nederlanden, I had to pass
+                                                    a series of demanding training and exams, which increased my
+                                                    knowledge.
+
+                                                </p>
+                                            <li>2020/06 - 2020/09 Expedition and distribudion position</li>
+                                                <p>
+                                                    <a href="https://poczta-online.pl/poczta-polska-wloclawek/ul-duninowska-9a">Poczta Polska</a>, Włocławek
+                                                    It was a summer job where I learned many instances of things like
+                                                    reliability and creativity.
+
+                                                </p>
+                                        </ul>
+                                </section>     
+                                <section>    
+                                    <h2><b>Courses</b></h2> 
+                                        <ul>
+                                            <li>2022/03 - Data Analyst with SQL Server - Created by <a href="https://www.datacamp.com/courses/introduction-to-sql?utm_source=adwords_ppc&utm_medium=cpc&utm_campaignid=15926254242&utm_adgroupid=132545910219&utm_device=c&utm_keyword=data%20camp%20sql&utm_matchtype=p&utm_network=g&utm_adpostion=&utm_creative=575784188137&utm_targetid=aud-1599704254054:kwd-825981922266&utm_loc_interest_ms=&utm_loc_physical_ms=1011276&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KHKZgHDrE6cET8lWDR_YyWIFwxzQplhat00YRUvo3ThVhXN2kM-JyQaAlG8EALw_wcB">DataCamp</a></li>
+                                                <p>
+                                                    Basics of database design and various types of SQL data. The path
+                                                    includes query writing, functions, and stored procedures. 
+
+                                                </p>
+                                            <li>2022/01 - Preparation for the FCE B2 English exam by <a href="https://www.facebook.com/zuza.poliszenglish">Zuzanna PolishEnglish</a></li>
+                                            <li>2021/10 - Java Programming: Solid Foundations - <a href="https://www.udemy.com/course/programowanie-w-javie-solidne-fundamenty/learn/lecture/19062454?start=15#overview">Course provided by Michal Kupinski</a></li>
+                                                <p>
+                                                    The material in the course covers 50 hours of learning, from showing
+                                                    and explaining what compilation is, to the basics of object-oriented
+                                                    programming.
+
+                                                </p>
+                                            <li>2021/08 - Java course for beginners - organized by <a href="https://platforma.marcingawle.pl/courses/programista-java/">Marcin Gawle</a></li>
+                                                <p>
+                                                    The course covers a wide range of material from basic data structures
+                                                    to advanced concepts in object-oriented programming.
+                                                </p>
+                                            <li>2021/01 - Preparation for Polish school - leaving examination - English part - Course provided by <a href="https://www.facebook.com/zuza.poliszenglish">Zuzanna Polish English organization</a></li>
+                                        </ul> 
+                                </section>    
+                                <section>     
+                                    <h2><b>Projects</b></h2>
+                                        <ul>
+                                            <li>2021/06-2021/06 - Project participant</li>
+                                                <p>
+                                                    Creating applications and websites "Introduction To Programming
+                                                    Using HTML and CSS" In the project "Action Qualification"
+                                                    The project was organized by the POMOST Foundation for Support
+                                                    and Development. The duration was over 50 hours. A passed exam
+                                                    and 100% attendance were required. 
+                                                </p>
+                                        </ul>
+                                </section>     
+                                <section>   
+                                    <h2><b>Certificates</b></h2>
+                                        <ul>
+                                            <li>2021/07 - Certificate from the project Creating applications and
+                                                websites "Introduction To Programming Using HTML and
+                                                CSS" In the project "Action Qualification"</li>
+                                        </ul>
+                                </section>     
+                                <section>  
+                                    <h2><b>Additional Activities</b></h2>
+                                        <ul>
+                                            <li>2021-12 - Member of Association of <a href="https://strefainwestorow.pl/">Individual Investors</a></li>
+                                                <p>
+                                                    The Association of Individual Investors is the largest investor
+                                                    organization in Poland, currently associating over 16,000 investors.
+                                                </p>
+                                        </ul>
+                            </section>
+                            <section>
+                                    <h2>Hobbies</h2>
+                                        <ul class="Hobbies">
+                                                <div>
+                                                <li><img src="images/gym_to_cv.png"/><h3>Sports</h3></li>
+                                                <p>Running and gym</p>
+                                                </div>
+                                                <div>
+                                                <li><img src="images/meditation_to_cv.png"/><h3>Meditation</h3></li>
+                                                <p>Concentration training</p>
+                                                </div>
+                                                <div>
+                                                <li><img src="images/technology_to_cv.png"/><h3>Technology</h3></li>
+                                                <p>Observation of the
+                                                    development of programming
+                                                    languages</p>
+                                                </div>
+                                                <div>    
+                                                <li><img src="images/psychology_to_cv.png"/><h3>Psychology</h3></li>
+                                                <p>Area of self - development</p>
+                                                </div>
+                                                <div>
+                                                <li><img src="images/blockchain_to_cv.png"/><h3>Blockchain technology</h3></li>
+                                                </div>
+                                        </ul>
+                            </section>
+                        </main>
+                    </body>        
+    </html>    
+    
+    This is CSS:
+    body{
+    font-family: Arial;
+    background-color: aliceblue;
+    padding: 40px 0 ;
+}
+h2{
+    font-size: 28px;
+}
+h1{
+    font-size: 36px;
+}
+h3{
+    margin-top: 5px;
+}
+span{
+    color: blue;
+}
+
+section, header{
+    padding: 10px 60px 20px 60px;
+    background-color: white;
+    width: 960px;
+    margin: 0 auto 0 auto;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header ul {
+    list-style: none;
+}
+ li {
+    margin-bottom: 15px;
+}
+.address-icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+}
+.circle{
+    border-radius: 50%;
+}
+.profil-picture{
+    width: 180px;
+    height: 180px;
+}
+.Hobbies{
+    list-style: none;
+    width: 50%;
+    padding: 0;
+    display: flex;
+    
+}
+.Hobbies li{
+    width: 50%;
+    display: flex;
+    align-items: flex-start;
+
+}
+.Hobbies div{
+    margin-left: 50px;
+}
+p{
+    line-height: 1.5;
+}
